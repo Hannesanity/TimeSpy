@@ -4,6 +4,7 @@ from datetime import date, datetime, timedelta
 import smtplib
 import pandas as pd
 import atexit
+import config
 
 current_window = None
 start_time = None
@@ -59,8 +60,8 @@ def track_app_time():
 
 
 def send_email():    
-    sender = "from_mailtrap"
-    receiver = "your_email"
+    sender = f"Private Person <{config.send}>"
+    receiver = f"A Test User <{config.rec}>"
     # Filter the DataFrame to get rows where the date matches yesterday's date
         
     message = f"""\
@@ -78,14 +79,15 @@ Here is your application's usage data for {yesterday}:
         else:
             message += f"Application Name: {row['application_name']}\n"
             message += f"Usage: {row['application_usage']} seconds\n"
-            
 
+            
 
     if yesterday_data.shape[0] > 0:
         with smtplib.SMTP("live.smtp.mailtrap.io", 587) as server:
             server.starttls()
-            server.login("api", "your_api")
+            server.login("api", config.api)
             server.sendmail(sender, receiver, message)
+
 
 def save_app_usage():
     global app_df, app_data, today_adj
@@ -128,8 +130,6 @@ def save_app_usage():
 atexit.register(save_app_usage)
 
 if __name__ == "__main__":
-    try:
-        # send_email()
-        track_app_time()
-    except KeyboardInterrupt:
-        save_app_usage()
+    send_email()
+    track_app_time()
+
