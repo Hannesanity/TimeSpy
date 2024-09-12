@@ -38,7 +38,7 @@ Python
 api = 'your_mailtrap_api_key'
 send = 'your_sender_email@example.com'
 rec = 'your_receiver_email@example.com'
-AI-generated code. Review and use carefully. More info on FAQ.Replace 'your_mailtrap_api_key', 'your_sender_email@example.com', and 'your_receiver_email@example.com' with your Mailtrap API key and email addresses.
+Replace 'your_mailtrap_api_key', 'your_sender_email@example.com', and 'your_receiver_email@example.com' with your Mailtrap API key and email addresses.
 Using the send_email Function
 The send_email function in Tracker.py handles email sending. It uses the API key and emails configured in config.py.
 
