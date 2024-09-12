@@ -42,7 +42,7 @@ def track_app_time():
                 print(f"Writing to TrackRecords.txt: {app_name} - {elapsed_time:.2f} seconds")
 
                 # Save the data to TrackRecords.txt
-                with open("TrackRecords.txt", "a") as file:
+                with open("TrackRecords.txt", "a", encoding='utf-8') as file:
                     current_datetime = time.strftime("%Y-%m-%d %H:%M:%S")
                     file.write(f"{current_datetime} - Time spent on {app_name}: {elapsed_time:.2f} seconds\n")
                     print("Updated TrackRecords.txt!")
