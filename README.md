@@ -7,17 +7,23 @@ Email Notifications: Send task updates or notifications via email using Mailtrap
 User-Friendly GUI: Built with Tkinter, providing a simple and interactive interface.
 
 
-Prerequisites
+Prerequisites:
+
 Python 3.8+
+
 Mailtrap Account (for email testing)
+
 Installation
 
 Clone the Repository:
+
 git clone https://github.com/Hannesanity/python-app-usage-tracker
+
 cd tracker-app
 
 
 Install Dependencies:
+
 pip install -r requirements.txt
 
 
@@ -29,7 +35,6 @@ Configure config.py:
 Create a config.py file in the root directory and add the following details:
 
 python
-Copy code
 # config.py
 api = 'your_mailtrap_api_key'
 send = 'your_sender_email@example.com'
