@@ -48,3 +48,10 @@ Running the App
 Launch the Tracker App with the following command:
 
 python tracker.py
+
+
+Future Improvements/Features that others can add:
+Descriptive Analytics
+Enhanced UI/UX
+Mobile Compatibility
+etc.
