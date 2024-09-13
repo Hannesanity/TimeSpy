@@ -80,9 +80,9 @@ Here is your application's usage data for {yesterday}:
             message += f"Application Name: {row['application_name']}\n"
             message += f"Usage: {row['application_usage']} seconds\n"
 
-            
+    notSent = yesterday_data[yesterday_data['isSent'] == 0]
 
-    if yesterday_data.shape[0] > 0:
+    if notSent.shape[0] > 0:
         with smtplib.SMTP("live.smtp.mailtrap.io", 587) as server:
             server.starttls()
             server.login("api", config.api)
