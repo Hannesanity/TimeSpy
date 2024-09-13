@@ -32,7 +32,7 @@ class AppUsageTracker(tk.Tk):
         self.tracking = False
         self.track_thread = None
 
-        atexit.register(self.save_app_usage)
+        
 
     def create_widgets(self):
         self.start_button = ttk.Button(self, text="Start Tracking", command=self.start_tracking)
@@ -63,6 +63,7 @@ class AppUsageTracker(tk.Tk):
         self.stop_button['state'] = tk.DISABLED
         if self.track_thread:
             self.track_thread.join()
+        self.save_app_usage()
 
     def track_app_time(self):
         while self.tracking:
@@ -84,7 +85,10 @@ class AppUsageTracker(tk.Tk):
 
                 self.current_window = new_window
                 self.start_time = time.time()
-                self.current_app_label.config(text=f"Current App: {self.current_window.title}")
+                if self.current_window.title:
+                    self.current_app_label.configure(text=f"Current App: {self.current_window.title}")
+                else:
+                    self.current_app_label.configure(text="Current App: Unknown")
 
             time.sleep(1)
 
@@ -155,3 +159,4 @@ Here is your application's usage data for {self.yesterday}:
 if __name__ == "__main__":
     app = AppUsageTracker()
     app.mainloop()
+    app.save_app_usage()
