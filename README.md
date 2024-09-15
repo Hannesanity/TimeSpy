@@ -18,10 +18,9 @@ Tracker is a Python application with a Tkinter GUI designed for managing tasks, 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Hannesanity/python-app-usage-tracker
-cd tracker-app
-
-
+git clone https://github.com/Hannesanity/TimeSpy
+cd TimeSpy
+'''
 
 Install Dependencies
 pip install -r requirements.txt
@@ -50,7 +49,7 @@ Launch the Tracker App with the following command:
 python tracker.py
 
 
-Future Improvements/Features that others can add:
+# Future Improvements/Features that others can add:
 Descriptive Analytics
 Enhanced UI/UX
 Mobile Compatibility
