@@ -16,39 +16,83 @@ class AppUsageTracker(customtkinter.CTk):
         self.title("App Usage Tracker")
         self.geometry("600x400")
         customtkinter.set_appearance_mode("dark")
+        customtkinter.set_default_color_theme("dark-blue")
+        self.configure(bg_color="#282c34")  
 
         self.current_window = None
         self.start_time = None
         self.app_data = {}
+        self.total_usage_today = 0
         self.today = date.today()
         self.today_adj = self.today.strftime("%B %d, %Y")
         self.yesterday = self.today - timedelta(days=1)
         self.yesterday = self.yesterday.strftime("%B %d, %Y")
-
         self.app_df = pd.read_csv("AppUsage.csv")
         self.yesterday_data = self.app_df[self.app_df['date'] == self.yesterday]
 
-        self.create_widgets()
-
+       
         self.tracking = False
         self.track_thread = None
 
         
+        self.create_widgets()
 
     def create_widgets(self):
         self.start_button = customtkinter.CTkButton(self, text="Start Tracking", fg_color=("#6153B7", "#F047FE"), command=self.start_tracking)
-        self.start_button.pack(pady=10)
+        self.start_button.grid(row=0, column=0, padx=80, pady=20)
 
         self.stop_button = customtkinter.CTkButton(self, text="Stop Tracking", fg_color=("#F047FE", "#6153B7"), command=self.stop_tracking)
-        self.stop_button.pack(pady=10)
+        self.stop_button.grid(row=0, column=1, padx=80, pady=20)
 
         self.current_app_label = customtkinter.CTkLabel(self, text="Current App: None")
-        self.current_app_label.pack(pady=10)
+        self.current_app_label.grid(row=1, column=0, columnspan=2, pady=10)
 
+        self.current_app_label = customtkinter.CTkLabel(self, text="Current App: None", 
+                                                        font=("Helvetica", 16, "bold"), 
+                                                        text_color="white")
+        self.current_app_label.grid(row=1, column=0, columnspan=2, pady=10)
+
+        self.style = ttk.Style()
+        self.style.theme_use("default")
+
+        # Match Treeview colors to the window background (mimicking transparency)
+        self.style.configure("Treeview",
+                             background="#282c34",  # Match window color
+                             foreground="white",    # Text color
+                             fieldbackground="#282c34",  # Match window color
+                             font=("Helvetica", 12),  # Font for treeview content
+                             borderwidth=0,  # No borders
+                             rowheight=30)   # Adjust row height for spacing
+
+        self.style.map('Treeview', background=[('selected', '#3B4252')])
+
+        # Configure the heading style
+        self.style.configure("Treeview.Heading",
+                             background="#4C566A",
+                             foreground="white",
+                             font=("Helvetica", 12, "bold"))
+
+        # Create the treeview widget
         self.tree = ttk.Treeview(self, columns=('App', 'Time'), show='headings')
         self.tree.heading('App', text='Application')
         self.tree.heading('Time', text='Time Spent (seconds)')
-        self.tree.pack(pady=10, expand=True, fill='both')
+
+        # Insert the treeview widget
+        self.tree.grid(row=2, column=0, columnspan=2, pady=10, sticky="nsew")
+
+        self.usage_time_label = customtkinter.CTkLabel(self, text="Total Usage Today: 0 seconds", 
+                                                       font=("Helvetica", 14), 
+                                                       text_color="white")
+        self.usage_time_label.grid(row=3, column=0, columnspan=2, pady=10)
+
+        self.clock_label = customtkinter.CTkLabel(self, text="", font=("Helvetica", 12), text_color="white")
+        self.clock_label.grid(row=4, column=0, columnspan=2, pady=10)
+        self.update_clock()
+
+    def update_clock(self):
+        current_time = time.strftime("%H:%M:%S")
+        self.clock_label.configure(text=current_time)
+        self.after(1000, self.update_clock)
 
     def start_tracking(self):
         self.tracking = True
@@ -133,7 +177,7 @@ Here is your application's usage data for {self.yesterday}:
             with smtplib.SMTP("live.smtp.mailtrap.io", 587) as server:
                 server.starttls()
                 server.login("api", config.api)
-                server.sendmail(sender, receiver, message)
+                server.sendmail(sender, receiver, message).encode('utf-8')
 
     def save_app_usage(self):
         for idx, row in self.yesterday_data.iterrows():

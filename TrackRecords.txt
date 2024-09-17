@@ -607,3 +607,564 @@
 2024-09-12 22:14:06 - Time spent on VALORANT  : 1555.90 seconds
 2024-09-12 22:14:08 - Time spent on : 1.10 seconds
 2024-09-12 22:14:09 - Time spent on Task Switching: 1.08 seconds
+2024-09-13 16:11:42 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-13 16:12:01 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 19.01 seconds
+2024-09-13 16:16:48 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-13 16:16:49 - Time spent on Task Switching: 1.01 seconds
+2024-09-13 16:16:50 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-13 16:16:51 - Time spent on : 1.01 seconds
+2024-09-13 16:16:55 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-13 16:16:56 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-13 16:17:10 - Time spent on App Usage Tracker: 13.36 seconds
+2024-09-13 16:17:11 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-13 16:22:40 - Time spent on App Usage Tracker: 6.01 seconds
+2024-09-13 16:22:41 - Time spent on : 1.01 seconds
+2024-09-13 16:22:43 - Time spent on CTkButton | CustomTkinter and 2 more pages - Personal - Microsoft​ Edge: 2.01 seconds
+2024-09-13 16:22:44 - Time spent on : 1.01 seconds
+2024-09-13 16:22:45 - Time spent on System tray overflow window.: 1.01 seconds
+2024-09-13 16:22:46 - Time spent on #general | Saksi ni Hubris - Discord: 1.01 seconds
+2024-09-13 16:22:53 - Time spent on App Usage Tracker: 7.58 seconds
+2024-09-13 16:22:54 - Time spent on : 1.01 seconds
+2024-09-13 16:23:01 - Time spent on Casual: 7.01 seconds
+2024-09-13 16:23:06 - Time spent on AppUsage - Excel (Product Activation Failed): 5.02 seconds
+2024-09-13 16:23:08 - Time spent on : 2.01 seconds
+2024-09-13 16:23:15 - Time spent on : 7.01 seconds
+2024-09-14 02:32:00 - Time spent on App Usage Tracker: 3.91 seconds
+2024-09-14 02:32:01 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 02:32:02 - Time spent on App Usage Tracker: 1.00 seconds
+2024-09-14 02:32:41 - Time spent on VALORANT  : 39.02 seconds
+2024-09-14 02:32:43 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:32:44 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 02:32:45 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 02:32:49 - Time spent on Task Switching: 4.01 seconds
+2024-09-14 02:33:07 - Time spent on App Usage Tracker: 2.00 seconds
+2024-09-14 02:33:50 - Time spent on VALORANT  : 43.03 seconds
+2024-09-14 02:33:51 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 02:33:52 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:33:53 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 02:33:54 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:33:55 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 02:33:59 - Time spent on VALORANT  : 4.01 seconds
+2024-09-14 02:34:00 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:34:01 - Time spent on Spotify Premium: 1.01 seconds
+2024-09-14 02:34:02 - Time spent on : 1.01 seconds
+2024-09-14 02:34:09 - Time spent on mail.google.com/mail/u/1/#inbox/FMfcgzQXJGhFhVDtGhvzZrfGjlRwGbSF - Personal - Microsoft​ Edge: 7.06 seconds
+2024-09-14 02:34:10 - Time spent on Task Switching: 1.07 seconds
+2024-09-14 02:34:15 - Time spent on VALORANT  : 5.04 seconds
+2024-09-14 02:34:16 - Time spent on Task Switching: 1.02 seconds
+2024-09-14 02:34:24 - Time spent on Inbox (271) - herakurosu03@gmail.com - Gmail - Personal - Microsoft​ Edge: 8.02 seconds
+2024-09-14 02:36:21 - Time spent on App Usage Tracker: 116.55 seconds
+2024-09-14 02:36:22 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 02:36:24 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:36:30 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 6.01 seconds
+2024-09-14 02:36:31 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:42:12 - Time spent on VALORANT  : 341.19 seconds
+2024-09-14 02:42:13 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:42:17 - Time spent on Gmail - Personal - Microsoft​ Edge: 4.00 seconds
+2024-09-14 02:42:19 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:42:31 - Time spent on Search results - herakurosu03@gmail.com - Gmail - Personal - Microsoft​ Edge: 12.03 seconds
+2024-09-14 02:44:38 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:44:39 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 02:44:40 - Time spent on Task Switching: 1.02 seconds
+2024-09-14 02:47:53 - Time spent on VALORANT  : 193.12 seconds
+2024-09-14 02:47:54 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 02:47:55 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:47:56 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.03 seconds
+2024-09-14 02:48:00 - Time spent on Inbox (271) - herakurosu03@gmail.com - Gmail - Personal - Microsoft​ Edge: 4.01 seconds
+2024-09-14 02:48:01 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.02 seconds
+2024-09-14 02:49:17 - Time spent on App Usage Tracker: 2.00 seconds
+2024-09-14 02:49:49 - Time spent on Seeking Advice: Best Practices for Handling "None" in Python : r/learnpython and 2 more pages - Personal - Microsoft​ Edge: 32.03 seconds
+2024-09-14 02:49:55 - Time spent on Riot Client: 6.01 seconds
+2024-09-14 02:50:03 - Time spent on Facebook and 2 more pages - Personal - Microsoft​ Edge: 8.01 seconds
+2024-09-14 02:50:08 - Time spent on Riot Client: 5.01 seconds
+2024-09-14 02:50:14 - Time spent on Seeking Advice: Best Practices for Handling "None" in Python : r/learnpython and 2 more pages - Personal - Microsoft​ Edge: 6.01 seconds
+2024-09-14 02:50:20 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 6.01 seconds
+2024-09-14 02:50:23 - Time spent on Seeking Advice: Best Practices for Handling "None" in Python : r/learnpython and 2 more pages - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 02:50:25 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 2.00 seconds
+2024-09-14 02:50:53 - Time spent on Seeking Advice: Best Practices for Handling "None" in Python : r/learnpython and 2 more pages - Personal - Microsoft​ Edge: 28.01 seconds
+2024-09-14 02:50:59 - Time spent on Riot Client: 6.03 seconds
+2024-09-14 02:51:07 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 8.01 seconds
+2024-09-14 02:51:08 - Time spent on Riot Client: 1.01 seconds
+2024-09-14 02:51:26 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 02:51:38 - Time spent on Tracker App.py - Casual - Visual Studio Code: 12.01 seconds
+2024-09-14 02:51:40 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:51:41 - Time spent on Riot Client: 1.01 seconds
+2024-09-14 02:51:42 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 02:52:08 - Time spent on Tracker.py - Casual - Visual Studio Code: 26.11 seconds
+2024-09-14 02:52:09 - Time spent on League of Legends: 1.01 seconds
+2024-09-14 02:52:10 - Time spent on : 1.03 seconds
+2024-09-14 02:52:12 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:52:13 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:52:19 - Time spent on Inbox (271) - herakurosu03@gmail.com - Gmail and 2 more pages - Personal - Microsoft​ Edge: 6.01 seconds
+2024-09-14 02:52:21 - Time spent on League of Legends: 1.01 seconds
+2024-09-14 02:52:39 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 18.03 seconds
+2024-09-14 02:52:40 - Time spent on : 1.01 seconds
+2024-09-14 02:52:48 - Time spent on Casual: 8.02 seconds
+2024-09-14 02:52:55 - Time spent on AppUsage - Excel (Product Activation Failed): 7.02 seconds
+2024-09-14 02:52:57 - Time spent on : 2.01 seconds
+2024-09-14 02:53:00 - Time spent on AppUsage - Excel (Product Activation Failed): 3.01 seconds
+2024-09-14 02:53:02 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 02:53:03 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 02:53:26 - Time spent on App Usage Tracker: 6.89 seconds
+2024-09-14 02:53:31 - Time spent on Seeking Advice: Best Practices for Handling "None" in Python : r/learnpython and 2 more pages - Personal - Microsoft​ Edge: 5.01 seconds
+2024-09-14 02:53:32 - Time spent on League of Legends: 1.01 seconds
+2024-09-14 02:53:46 - Time spent on Facebook and 1 more page - Personal - Microsoft​ Edge: 14.01 seconds
+2024-09-14 02:53:47 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 02:53:50 - Time spent on Facebook and 1 more page - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 02:54:01 - Time spent on League of Legends: 11.01 seconds
+2024-09-14 02:54:08 - Time spent on : 7.01 seconds
+2024-09-14 02:54:10 - Time spent on : 2.00 seconds
+2024-09-14 02:54:17 - Time spent on : 7.01 seconds
+2024-09-14 02:54:34 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 17.06 seconds
+2024-09-14 02:54:35 - Time spent on : 1.01 seconds
+2024-09-14 02:54:36 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-14 02:54:43 - Time spent on Riot Client: 7.01 seconds
+2024-09-14 02:55:10 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 27.03 seconds
+2024-09-14 02:55:13 - Time spent on Task Switching: 3.01 seconds
+2024-09-14 02:55:15 - Time spent on Riot Client: 2.05 seconds
+2024-09-14 02:55:16 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-14 02:55:18 - Time spent on League of Legends: 2.01 seconds
+2024-09-14 02:55:21 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 02:55:26 - Time spent on League of Legends: 5.02 seconds
+2024-09-14 02:55:38 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 12.03 seconds
+2024-09-14 02:55:42 - Time spent on League of Legends: 4.00 seconds
+2024-09-14 02:55:48 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 6.00 seconds
+2024-09-14 02:55:51 - Time spent on : 3.00 seconds
+2024-09-14 02:55:58 - Time spent on : 7.00 seconds
+2024-09-14 02:56:00 - Time spent on : 2.00 seconds
+2024-09-14 02:56:01 - Time spent on : 1.01 seconds
+2024-09-14 02:56:04 - Time spent on System tray overflow window.: 3.00 seconds
+2024-09-14 02:56:17 - Time spent on #tft-news | Boyses's community - Discord: 13.01 seconds
+2024-09-14 02:56:26 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 9.01 seconds
+2024-09-14 02:56:40 - Time spent on #tft-news | Boyses's community - Discord: 14.01 seconds
+2024-09-14 02:56:41 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 02:57:52 - Time spent on GabbiDoto Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 70.03 seconds
+2024-09-14 02:57:53 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 03:34:04 - Time spent on App Usage Tracker: 6.01 seconds
+2024-09-14 03:34:08 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 4.01 seconds
+2024-09-14 03:34:12 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-14 03:34:13 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.00 seconds
+2024-09-14 03:34:14 - Time spent on : 1.01 seconds
+2024-09-14 03:34:23 - Time spent on App Usage Tracker: 8.06 seconds
+2024-09-14 03:38:23 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 240.12 seconds
+2024-09-14 03:38:25 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 03:38:26 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 03:38:27 - Time spent on Color and Themes | CustomTkinter and 5 more pages - Personal - Microsoft​ Edge: 1.01 seconds
+2024-09-14 03:38:28 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 03:38:29 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 03:38:34 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 5.01 seconds
+2024-09-14 03:38:35 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 03:38:41 - Time spent on Self Portfolio Draft – Figma and 5 more pages - Personal - Microsoft​ Edge: 6.01 seconds
+2024-09-14 03:38:42 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 03:38:43 - Time spent on Self Portfolio Draft – Figma and 5 more pages - Personal - Microsoft​ Edge: 1.01 seconds
+2024-09-14 03:38:44 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 03:38:45 - Time spent on #hex | Boyses's community - Discord: 1.01 seconds
+2024-09-14 03:50:25 - Time spent on App Usage Tracker: 173.08 seconds
+2024-09-14 03:50:29 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 4.01 seconds
+2024-09-14 03:50:31 - Time spent on Task Switching: 2.01 seconds
+2024-09-14 03:50:36 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 5.01 seconds
+2024-09-14 03:50:38 - Time spent on Task Switching: 2.01 seconds
+2024-09-14 03:53:53 - Time spent on CTkFont | CustomTkinter and 6 more pages - Personal - Microsoft​ Edge: 195.09 seconds
+2024-09-14 03:53:55 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-14 03:55:02 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 7 more pages - Personal - Microsoft​ Edge: 67.04 seconds
+2024-09-14 03:55:13 - Time spent on : 11.01 seconds
+2024-09-14 03:56:20 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 4 more pages - Personal - Microsoft​ Edge: 67.03 seconds
+2024-09-14 03:56:23 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 3.00 seconds
+2024-09-14 03:56:25 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 4 more pages - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-14 03:57:01 - Time spent on ttk.py - Casual - Visual Studio Code: 36.04 seconds
+2024-09-14 03:57:38 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 4 more pages - Personal - Microsoft​ Edge: 37.02 seconds
+2024-09-14 03:57:53 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 15.01 seconds
+2024-09-14 03:57:54 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 4 more pages - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-14 03:57:57 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 3.00 seconds
+2024-09-14 03:57:58 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 03:58:23 - Time spent on tkinter.ttk — Tk themed widgets — Python 3.12.6 documentation and 4 more pages - Personal - Microsoft​ Edge: 25.01 seconds
+2024-09-14 03:58:43 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-14 03:58:44 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 03:58:45 - Time spent on : 1.01 seconds
+2024-09-14 03:58:46 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-14 03:58:47 - Time spent on Tracker CustomTKinter.py - Casual - Visual Studio Code: 1.01 seconds
+2024-09-14 03:59:25 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-14 23:02:29 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 4.00 seconds
+2024-09-14 23:03:05 - Time spent on VALORANT  : 36.02 seconds
+2024-09-14 23:03:06 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:03:07 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:03:09 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:03:10 - Time spent on : 1.00 seconds
+2024-09-14 23:03:16 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 6.00 seconds
+2024-09-14 23:03:17 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:03:35 - Time spent on VALORANT  : 17.01 seconds
+2024-09-14 23:03:36 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:03:37 - Time spent on : 1.03 seconds
+2024-09-14 23:03:38 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:03:50 - Time spent on Arthur Nery - TAKE ALL THE LOVE: 12.02 seconds
+2024-09-14 23:03:52 - Time spent on VALORANT  : 2.00 seconds
+2024-09-14 23:03:59 - Time spent on Arthur Nery - TAKE ALL THE LOVE: 7.00 seconds
+2024-09-14 23:04:01 - Time spent on VALORANT  : 2.00 seconds
+2024-09-14 23:04:02 - Time spent on Arthur Nery - TAKE ALL THE LOVE: 1.00 seconds
+2024-09-14 23:04:05 - Time spent on Quick settings: 3.00 seconds
+2024-09-14 23:05:19 - Time spent on VALORANT  : 74.04 seconds
+2024-09-14 23:05:20 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:05:21 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:10:13 - Time spent on VALORANT  : 291.16 seconds
+2024-09-14 23:10:17 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 4.00 seconds
+2024-09-14 23:16:35 - Time spent on VALORANT  : 378.17 seconds
+2024-09-14 23:16:37 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:16:38 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:16:39 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:16:42 - Time spent on Arthur Nery - Happy w u: 3.00 seconds
+2024-09-14 23:17:11 - Time spent on VALORANT  : 29.01 seconds
+2024-09-14 23:17:15 - Time spent on Arthur Nery - Happy w u: 4.00 seconds
+2024-09-14 23:17:16 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:17:18 - Time spent on Arthur Nery - Happy w u: 2.00 seconds
+2024-09-14 23:17:26 - Time spent on VALORANT  : 8.00 seconds
+2024-09-14 23:17:27 - Time spent on Arthur Nery - Happy w u: 1.00 seconds
+2024-09-14 23:17:28 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:17:38 - Time spent on Arthur Nery - Happy w u: 10.01 seconds
+2024-09-14 23:17:50 - Time spent on VALORANT  : 12.01 seconds
+2024-09-14 23:17:52 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:17:59 - Time spent on Arthur Nery - Pagsamo: 7.01 seconds
+2024-09-14 23:19:01 - Time spent on VALORANT  : 62.03 seconds
+2024-09-14 23:19:02 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:19:06 - Time spent on Arthur Nery - Pagsamo: 4.00 seconds
+2024-09-14 23:21:11 - Time spent on VALORANT  : 125.05 seconds
+2024-09-14 23:21:12 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:22:38 - Time spent on VALORANT  : 86.03 seconds
+2024-09-14 23:22:40 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:23:49 - Time spent on VALORANT  : 69.03 seconds
+2024-09-14 23:23:52 - Time spent on Task Switching: 3.00 seconds
+2024-09-14 23:23:54 - Time spent on Spotify Premium: 2.01 seconds
+2024-09-14 23:23:58 - Time spent on VALORANT  : 4.00 seconds
+2024-09-14 23:23:59 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:32:30 - Time spent on VALORANT  : 511.21 seconds
+2024-09-14 23:32:31 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-14 23:32:32 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:32:34 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:32:36 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 2.00 seconds
+2024-09-14 23:33:49 - Time spent on VALORANT  : 73.03 seconds
+2024-09-14 23:33:50 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:34:25 - Time spent on VALORANT  : 35.01 seconds
+2024-09-14 23:34:26 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:36:15 - Time spent on VALORANT  : 109.05 seconds
+2024-09-14 23:36:16 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:37:49 - Time spent on VALORANT  : 93.09 seconds
+2024-09-14 23:37:50 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:38:08 - Time spent on VALORANT  : 18.01 seconds
+2024-09-14 23:38:11 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 3.01 seconds
+2024-09-14 23:38:18 - Time spent on (2) PUTUKAN | Messenger - Personal - Microsoft​ Edge: 7.04 seconds
+2024-09-14 23:38:34 - Time spent on VALORANT  : 15.12 seconds
+2024-09-14 23:38:48 - Time spent on Discord and 1 more page - Personal - Microsoft​ Edge: 14.01 seconds
+2024-09-14 23:38:50 - Time spent on System tray overflow window.: 2.00 seconds
+2024-09-14 23:38:52 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:39:00 - Time spent on Discord and 1 more page - Personal - Microsoft​ Edge: 8.02 seconds
+2024-09-14 23:39:01 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:39:03 - Time spent on Valorant | Gaming Hub - Discord: 2.00 seconds
+2024-09-14 23:39:17 - Time spent on VALORANT  : 14.04 seconds
+2024-09-14 23:39:18 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:39:30 - Time spent on Discord and 1 more page - Personal - Microsoft​ Edge: 12.01 seconds
+2024-09-14 23:39:31 - Time spent on System tray overflow window.: 1.00 seconds
+2024-09-14 23:39:37 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 6.01 seconds
+2024-09-14 23:39:38 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:39:45 - Time spent on VALORANT  : 7.01 seconds
+2024-09-14 23:39:48 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 23:39:51 - Time spent on discord.com - [InPrivate] - Microsoft​ Edge: 3.01 seconds
+2024-09-14 23:39:53 - Time spent on New tab and 1 more page - Personal - Microsoft​ Edge: 2.08 seconds
+2024-09-14 23:39:54 - Time spent on Task Switching: 1.05 seconds
+2024-09-14 23:40:01 - Time spent on VALORANT  : 7.04 seconds
+2024-09-14 23:40:05 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 4.00 seconds
+2024-09-14 23:40:06 - Time spent on System tray overflow window.: 1.00 seconds
+2024-09-14 23:40:19 - Time spent on Friends - Discord: 13.02 seconds
+2024-09-14 23:40:20 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-14 23:40:26 - Time spent on Friends - Discord: 6.01 seconds
+2024-09-14 23:40:27 - Time spent on : 1.00 seconds
+2024-09-14 23:40:34 - Time spent on Friends - Discord: 7.01 seconds
+2024-09-14 23:40:36 - Time spent on : 2.00 seconds
+2024-09-14 23:40:37 - Time spent on Friends - Discord: 1.00 seconds
+2024-09-14 23:40:41 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 4.05 seconds
+2024-09-14 23:40:42 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:40:59 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 17.01 seconds
+2024-09-14 23:41:39 - Time spent on VALORANT  : 40.05 seconds
+2024-09-14 23:41:40 - Time spent on : 1.00 seconds
+2024-09-14 23:41:43 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 23:42:15 - Time spent on VALORANT  : 32.02 seconds
+2024-09-14 23:42:23 - Time spent on (1) Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 8.00 seconds
+2024-09-14 23:42:24 - Time spent on : 1.00 seconds
+2024-09-14 23:42:29 - Time spent on Friends - Discord: 5.00 seconds
+2024-09-14 23:42:31 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-14 23:42:32 - Time spent on Task Switching: 1.01 seconds
+2024-09-14 23:42:34 - Time spent on VALORANT  : 2.00 seconds
+2024-09-14 23:42:41 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 7.01 seconds
+2024-09-14 23:42:42 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:43:17 - Time spent on VALORANT  : 35.02 seconds
+2024-09-14 23:43:30 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 13.01 seconds
+2024-09-14 23:43:31 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-14 23:43:41 - Time spent on Friends - Discord: 10.00 seconds
+2024-09-14 23:43:42 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:43:45 - Time spent on VALORANT  : 3.00 seconds
+2024-09-14 23:43:46 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:43:54 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 8.01 seconds
+2024-09-14 23:45:29 - Time spent on VALORANT  : 95.06 seconds
+2024-09-14 23:45:32 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 23:45:33 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:45:34 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:45:43 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 9.00 seconds
+2024-09-14 23:45:45 - Time spent on Task Switching: 2.00 seconds
+2024-09-14 23:46:59 - Time spent on VALORANT  : 74.03 seconds
+2024-09-14 23:47:26 - Time spent on Koket | Messenger and 1 more page - Personal - Microsoft​ Edge: 27.03 seconds
+2024-09-14 23:47:27 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:47:34 - Time spent on VALORANT  : 7.01 seconds
+2024-09-14 23:47:39 - Time spent on Koket | Messenger and 1 more page - Personal - Microsoft​ Edge: 5.00 seconds
+2024-09-14 23:47:47 - Time spent on VALORANT  : 7.00 seconds
+2024-09-14 23:47:49 - Time spent on Koket | Messenger and 1 more page - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-14 23:49:14 - Time spent on VALORANT  : 85.03 seconds
+2024-09-14 23:49:31 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 17.01 seconds
+2024-09-14 23:50:26 - Time spent on VALORANT  : 55.02 seconds
+2024-09-14 23:50:45 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 19.01 seconds
+2024-09-14 23:51:38 - Time spent on VALORANT  : 53.03 seconds
+2024-09-14 23:51:51 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 13.02 seconds
+2024-09-14 23:51:54 - Time spent on VALORANT  : 3.00 seconds
+2024-09-14 23:51:57 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 3.01 seconds
+2024-09-14 23:51:58 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:54:19 - Time spent on VALORANT  : 141.06 seconds
+2024-09-14 23:54:26 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 7.00 seconds
+2024-09-14 23:54:27 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:54:30 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 3.01 seconds
+2024-09-14 23:54:31 - Time spent on VALORANT  : 1.00 seconds
+2024-09-14 23:54:32 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:54:41 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 9.00 seconds
+2024-09-14 23:55:53 - Time spent on VALORANT  : 72.03 seconds
+2024-09-14 23:55:54 - Time spent on Task Switching: 1.00 seconds
+2024-09-14 23:56:13 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 19.01 seconds
+2024-09-14 23:57:27 - Time spent on VALORANT  : 74.04 seconds
+2024-09-14 23:57:30 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-14 23:57:31 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:00:46 - Time spent on VALORANT  : 195.09 seconds
+2024-09-15 00:00:57 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 11.01 seconds
+2024-09-15 00:01:21 - Time spent on VALORANT  : 24.03 seconds
+2024-09-15 00:01:22 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:04:20 - Time spent on VALORANT  : 178.08 seconds
+2024-09-15 00:04:24 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 4.00 seconds
+2024-09-15 00:04:27 - Time spent on VALORANT  : 3.00 seconds
+2024-09-15 00:04:38 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 11.01 seconds
+2024-09-15 00:04:41 - Time spent on VALORANT  : 3.00 seconds
+2024-09-15 00:04:45 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 4.00 seconds
+2024-09-15 00:05:41 - Time spent on VALORANT  : 56.04 seconds
+2024-09-15 00:05:43 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-15 00:05:44 - Time spent on VALORANT  : 1.00 seconds
+2024-09-15 00:05:59 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 15.01 seconds
+2024-09-15 00:06:00 - Time spent on VALORANT  : 1.06 seconds
+2024-09-15 00:06:10 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 10.00 seconds
+2024-09-15 00:06:16 - Time spent on VALORANT  : 6.00 seconds
+2024-09-15 00:06:18 - Time spent on Task Switching: 2.00 seconds
+2024-09-15 00:06:20 - Time spent on : 2.00 seconds
+2024-09-15 00:06:21 - Time spent on VALORANT  : 1.00 seconds
+2024-09-15 00:06:22 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:06:31 - Time spent on Discord - [InPrivate] - Microsoft​ Edge: 9.02 seconds
+2024-09-15 00:06:33 - Time spent on Task Switching: 2.00 seconds
+2024-09-15 00:07:26 - Time spent on VALORANT  : 53.02 seconds
+2024-09-15 00:07:27 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:07:29 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-15 00:07:33 - Time spent on VALORANT  : 4.00 seconds
+2024-09-15 00:07:34 - Time spent on Task Switching: 1.01 seconds
+2024-09-15 00:07:45 - Time spent on Spotify Premium: 11.00 seconds
+2024-09-15 00:07:46 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:09:20 - Time spent on VALORANT  : 94.04 seconds
+2024-09-15 00:09:21 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:09:39 - Time spent on Tinechalant | Messenger and 1 more page - Personal - Microsoft​ Edge: 18.02 seconds
+2024-09-15 00:09:40 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:09:51 - Time spent on VALORANT  : 11.06 seconds
+2024-09-15 00:09:52 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:10:04 - Time spent on Discord - [InPrivate] - Microsoft​ Edge: 12.01 seconds
+2024-09-15 00:10:36 - Time spent on VALORANT  : 32.01 seconds
+2024-09-15 00:10:37 - Time spent on Discord - [InPrivate] - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:10:38 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:10:58 - Time spent on Gmail and 1 more page - Personal - Microsoft​ Edge: 19.06 seconds
+2024-09-15 00:11:58 - Time spent on VALORANT  : 60.03 seconds
+2024-09-15 00:12:05 - Time spent on Discord and 2 more pages - Personal - Microsoft​ Edge: 7.00 seconds
+2024-09-15 00:12:06 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:12:07 - Time spent on Discord and 2 more pages - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:12:08 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:12:11 - Time spent on Discord - [InPrivate] - Microsoft​ Edge: 3.02 seconds
+2024-09-15 00:12:13 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 2.01 seconds
+2024-09-15 00:12:17 - Time spent on Discord | HOLIDAYS LANG WALANG HAPPY - [InPrivate] - Microsoft​ Edge: 4.01 seconds
+2024-09-15 00:12:19 - Time spent on Task Switching: 2.00 seconds
+2024-09-15 00:12:23 - Time spent on VALORANT  : 4.00 seconds
+2024-09-15 00:12:30 - Time spent on Discord | My Account | User Settings - [InPrivate] - Microsoft​ Edge: 7.01 seconds
+2024-09-15 00:12:32 - Time spent on Task Switching: 2.00 seconds
+2024-09-15 00:14:28 - Time spent on VALORANT  : 116.05 seconds
+2024-09-15 00:14:50 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 22.01 seconds
+2024-09-15 00:15:40 - Time spent on VALORANT  : 50.02 seconds
+2024-09-15 00:15:45 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 5.05 seconds
+2024-09-15 00:15:46 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:15:47 - Time spent on VALORANT  : 1.00 seconds
+2024-09-15 00:15:52 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 5.00 seconds
+2024-09-15 00:16:28 - Time spent on VALORANT  : 36.02 seconds
+2024-09-15 00:16:37 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 9.00 seconds
+2024-09-15 00:16:41 - Time spent on VALORANT  : 4.02 seconds
+2024-09-15 00:16:48 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 7.00 seconds
+2024-09-15 00:17:48 - Time spent on VALORANT  : 60.02 seconds
+2024-09-15 00:17:51 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-15 00:18:05 - Time spent on VALORANT  : 14.01 seconds
+2024-09-15 00:18:08 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-15 00:18:10 - Time spent on VALORANT  : 2.00 seconds
+2024-09-15 00:18:12 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-15 00:18:31 - Time spent on VALORANT  : 19.01 seconds
+2024-09-15 00:18:42 - Time spent on Koket | Messenger - Personal - Microsoft​ Edge: 11.01 seconds
+2024-09-15 00:18:43 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:18:49 - Time spent on VALORANT  : 6.00 seconds
+2024-09-15 00:18:50 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:18:53 - Time spent on Koket | Messenger - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-15 00:20:21 - Time spent on VALORANT  : 88.04 seconds
+2024-09-15 00:20:22 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:20:23 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:20:25 - Time spent on Task Switching: 2.00 seconds
+2024-09-15 00:22:26 - Time spent on VALORANT  : 121.05 seconds
+2024-09-15 00:22:27 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:22:37 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 10.00 seconds
+2024-09-15 00:22:38 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:22:41 - Time spent on VALORANT  : 3.00 seconds
+2024-09-15 00:22:42 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:22:47 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 5.00 seconds
+2024-09-15 00:26:43 - Time spent on VALORANT  : 236.10 seconds
+2024-09-15 00:26:53 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 10.01 seconds
+2024-09-15 00:26:56 - Time spent on VALORANT  : 3.00 seconds
+2024-09-15 00:27:01 - Time spent on Tinechalant | Messenger - Personal - Microsoft​ Edge: 5.00 seconds
+2024-09-15 00:27:02 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:30:57 - Time spent on VALORANT  : 235.12 seconds
+2024-09-15 00:30:58 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:31:01 - Time spent on facebook.com - Personal - Microsoft​ Edge: 3.00 seconds
+2024-09-15 00:31:02 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:31:04 - Time spent on VALORANT  : 1.00 seconds
+2024-09-15 00:31:05 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:31:06 - Time spent on Facebook - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:31:09 - Time spent on Task Switching: 3.00 seconds
+2024-09-15 00:31:31 - Time spent on VALORANT  : 22.01 seconds
+2024-09-15 00:31:32 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:31:53 - Time spent on Facebook - Personal - Microsoft​ Edge: 21.01 seconds
+2024-09-15 00:31:54 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-15 00:33:31 - Time spent on New tab and 1 more page - Personal - Microsoft​ Edge: 97.07 seconds
+2024-09-15 00:33:32 - Time spent on : 1.00 seconds
+2024-09-15 00:33:33 - Time spent on Friends - Discord: 1.00 seconds
+2024-09-15 00:33:34 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:33:40 - Time spent on @kres10 - Discord: 6.00 seconds
+2024-09-15 00:33:41 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:33:42 - Time spent on Facebook and 1 more page - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-15 00:33:43 - Time spent on @kres10 - Discord: 1.00 seconds
+2024-09-15 00:33:44 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 00:33:53 - Time spent on Discord - [InPrivate] - Microsoft​ Edge: 9.00 seconds
+2024-09-15 00:33:54 - Time spent on @kres10 - Discord: 1.00 seconds
+2024-09-15 00:39:14 - Time spent on GabbiDoto Stream - Watch Live on Kick and 1 more page - Personal - Microsoft​ Edge: 319.11 seconds
+2024-09-15 00:39:15 - Time spent on : 1.00 seconds
+2024-09-15 00:39:20 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker.py (Casual) - Sublime Text (UNREGISTERED): 5.00 seconds
+2024-09-15 00:39:21 - Time spent on : 1.00 seconds
+2024-09-15 00:42:24 - Time spent on App Usage Tracker: 4.07 seconds
+2024-09-15 00:42:49 - Time spent on GabbiDoto Stream - Watch Live on Kick and 1 more page - Personal - Microsoft​ Edge: 25.04 seconds
+2024-09-15 00:42:51 - Time spent on App Usage Tracker: 2.00 seconds
+2024-09-15 00:42:52 - Time spent on Task Switching: 1.01 seconds
+2024-09-15 00:42:57 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 5.01 seconds
+2024-09-15 00:42:58 - Time spent on : 1.01 seconds
+2024-09-15 00:43:33 - Time spent on App Usage Tracker: 4.91 seconds
+2024-09-15 00:44:30 - Time spent on Facebook and 1 more page - Personal - Microsoft​ Edge: 57.10 seconds
+2024-09-15 00:44:31 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-15 00:44:34 - Time spent on App Usage Tracker: 3.01 seconds
+2024-09-15 00:44:35 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-15 00:44:40 - Time spent on Task Switching: 5.00 seconds
+2024-09-15 00:44:41 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.00 seconds
+2024-09-15 00:44:42 - Time spent on Spotify Premium: 1.00 seconds
+2024-09-15 00:44:44 - Time spent on Facebook and 1 more page - Personal - Microsoft​ Edge: 2.00 seconds
+2024-09-15 00:44:48 - Time spent on Task Switching: 4.00 seconds
+2024-09-15 00:44:51 - Time spent on App Usage Tracker: 3.01 seconds
+2024-09-15 00:44:52 - Time spent on Task Switching: 1.01 seconds
+2024-09-15 00:44:53 - Time spent on Spotify Premium: 1.01 seconds
+2024-09-15 00:45:20 - Time spent on GabbiDoto Stream - Watch Live on Kick and 1 more page - Personal - Microsoft​ Edge: 27.02 seconds
+2024-09-15 00:45:22 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-15 00:45:23 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.01 seconds
+2024-09-15 00:50:20 - Time spent on App Usage Tracker: 296.46 seconds
+2024-09-15 00:50:21 - Time spent on Task Manager: 1.01 seconds
+2024-09-15 00:50:41 - Time spent on #hex | Boyses's community - Discord: 20.02 seconds
+2024-09-15 00:50:48 - Time spent on Application Usage - herakurosu03@gmail.com - Gmail and 2 more pages - Personal - Microsoft​ Edge: 7.01 seconds
+2024-09-15 00:50:49 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-15 00:50:50 - Time spent on : 1.00 seconds
+2024-09-15 00:51:16 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 26.01 seconds
+2024-09-15 00:51:20 - Time spent on Task Switching: 4.04 seconds
+2024-09-15 00:51:21 - Time spent on #hex | Boyses's community - Discord: 1.01 seconds
+2024-09-15 00:51:22 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.01 seconds
+2024-09-15 00:51:23 - Time spent on Task Switching: 1.05 seconds
+2024-09-15 00:51:24 - Time spent on Casual: 1.01 seconds
+2024-09-15 00:51:59 - Time spent on #hex | Boyses's community - Discord: 35.04 seconds
+2024-09-15 00:52:00 - Time spent on Casual: 1.01 seconds
+2024-09-15 00:52:05 - Time spent on #hex | Boyses's community - Discord: 5.01 seconds
+2024-09-15 00:52:06 - Time spent on Casual: 1.01 seconds
+2024-09-15 00:56:33 - Time spent on KukuDota2 Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 267.11 seconds
+2024-09-15 00:56:34 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker App.py (Casual) - Sublime Text (UNREGISTERED): 1.01 seconds
+2024-09-15 00:56:35 - Time spent on Spotify Premium: 1.01 seconds
+2024-09-15 00:56:36 - Time spent on : 1.01 seconds
+2024-09-15 00:56:37 - Time spent on Casual: 1.01 seconds
+2024-09-15 12:05:45 - Time spent on App Usage Tracker: 1.00 seconds
+2024-09-15 12:05:46 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 12:05:48 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-15 12:05:49 - Time spent on Task Switching: 1.00 seconds
+2024-09-15 12:05:57 - Time spent on App Usage Tracker: 8.01 seconds
+2024-09-15 12:06:18 - Time spent on C:\Users\Hanniel\Desktop\Programming\Casual\Tracker CustomTKinter.py (Casual) - Sublime Text (UNREGISTERED): 21.01 seconds
+2024-09-16 17:36:55 - Time spent on App Usage Tracker: 10.88 seconds
+2024-09-16 17:37:17 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 22.01 seconds
+2024-09-16 17:37:21 - Time spent on python - Cannot use geometry manager pack inside - Stack Overflow and 4 more pages - Personal - Microsoft​ Edge: 4.02 seconds
+2024-09-16 17:37:22 - Time spent on UnicodeEncodeError: 'ascii' codec can't encode character '\u200b' in position 353: ordinal not in range(128) - Google Search - [InPrivate] - Microsoft​ Edge: 1.02 seconds
+2024-09-16 17:37:24 - Time spent on Python App Tracker Name and 3 more pages - Personal - Microsoft​ Edge: 2.04 seconds
+2024-09-16 17:37:26 - Time spent on Task Switching: 2.01 seconds
+2024-09-16 17:37:27 - Time spent on : 1.01 seconds
+2024-09-16 17:37:28 - Time spent on Task Switching: 1.01 seconds
+2024-09-16 17:37:36 - Time spent on python - UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 20: ordinal not in range(128) - Stack Overflow - [InPrivate] - Microsoft​ Edge: 8.01 seconds
+2024-09-16 17:37:50 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 14.03 seconds
+2024-09-16 17:37:55 - Time spent on python - UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 20: ordinal not in range(128) - Stack Overflow - [InPrivate] - Microsoft​ Edge: 5.01 seconds
+2024-09-16 17:38:05 - Time spent on App Usage Tracker: 5.49 seconds
+2024-09-16 17:38:06 - Time spent on Python App Tracker Name and 3 more pages - Personal - Microsoft​ Edge: 1.01 seconds
+2024-09-16 17:38:08 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-16 17:38:09 - Time spent on Python App Tracker Name and 3 more pages - Personal - Microsoft​ Edge: 1.00 seconds
+2024-09-16 17:38:10 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-16 17:38:16 - Time spent on Python App Tracker Name and 3 more pages - Personal - Microsoft​ Edge: 6.00 seconds
+2024-09-16 17:38:33 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 17.01 seconds
+2024-09-16 17:39:08 - Time spent on python - Ascii encoding error during sending a mail - Stack Overflow and 4 more pages - Personal - Microsoft​ Edge: 35.02 seconds
+2024-09-16 17:39:19 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 11.01 seconds
+2024-09-16 17:39:21 - Time spent on Search: 2.02 seconds
+2024-09-16 17:39:26 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 5.01 seconds
+2024-09-16 17:39:41 - Time spent on Lib: 15.01 seconds
+2024-09-16 17:40:01 - Time spent on smtplib.py - Notepad: 20.02 seconds
+2024-09-16 17:40:03 - Time spent on python - Ascii encoding error during sending a mail - Stack Overflow and 4 more pages - Personal - Microsoft​ Edge: 2.01 seconds
+2024-09-16 17:41:15 - Time spent on App Usage Tracker: 3.00 seconds
+2024-09-16 17:43:30 - Time spent on Gmail and 5 more pages - Personal - Microsoft​ Edge: 135.12 seconds
+2024-09-16 17:43:32 - Time spent on App Usage Tracker: 2.01 seconds
+2024-09-16 17:45:29 - Time spent on Inbox (271) - herakurosu03@gmail.com - Gmail and 3 more pages - Personal - Microsoft​ Edge: 117.05 seconds
+2024-09-16 17:45:34 - Time spent on App Usage Tracker: 5.01 seconds
+2024-09-16 17:45:38 - Time spent on Jaunueldota Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 4.00 seconds
+2024-09-16 17:45:39 - Time spent on App Usage Tracker: 1.01 seconds
+2024-09-16 17:45:48 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 9.01 seconds
+2024-09-16 17:45:50 - Time spent on Jaunueldota Stream - Watch Live on Kick and 2 more pages - Personal - Microsoft​ Edge: 2.01 seconds
+2024-09-16 17:46:03 - Time spent on App Usage Tracker: 13.06 seconds
+2024-09-16 17:46:37 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 34.02 seconds
+2024-09-16 17:46:44 - Time spent on New tab and 3 more pages - Personal - Microsoft​ Edge: 7.01 seconds
+2024-09-16 17:47:17 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 33.02 seconds
+2024-09-16 17:49:50 - Time spent on Jaunueldota Stream - Watch Live on Kick and 3 more pages - Personal - Microsoft​ Edge: 153.10 seconds
+2024-09-16 17:49:52 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 2.01 seconds
+2024-09-16 17:50:02 - Time spent on 1. Grid System | CustomTkinter and 3 more pages - Personal - Microsoft​ Edge: 10.01 seconds
+2024-09-16 17:50:10 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 8.01 seconds
+2024-09-16 17:50:15 - Time spent on App Usage Tracker: 5.01 seconds
+2024-09-16 17:50:38 - Time spent on App Usage Tracker: 7.01 seconds
+2024-09-16 17:50:57 - Time spent on App Usage Tracker: 1.00 seconds
+2024-09-16 17:51:05 - Time spent on 127.0.0.1:5500/index.html and 3 more pages - Personal - Microsoft​ Edge: 8.01 seconds
+2024-09-16 17:51:06 - Time spent on Task Switching: 1.01 seconds
+2024-09-16 17:51:16 - Time spent on App Usage Tracker: 10.01 seconds
+2024-09-16 17:51:30 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 14.01 seconds
+2024-09-16 17:53:20 - Time spent on 1. Grid System | CustomTkinter and 4 more pages - Personal - Microsoft​ Edge: 110.04 seconds
+2024-09-16 17:57:51 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-16 17:57:54 - Time spent on Python App Tracker Name and 4 more pages - Personal - Microsoft​ Edge: 3.01 seconds
+2024-09-16 17:58:05 - Time spent on App Usage Tracker: 11.03 seconds
+2024-09-16 17:58:08 - Time spent on C:\Users\Hanniel\Desktop\Programming\TimeSpy\Tracker CustomTKinter.py (TimeSpy) - Sublime Text (UNREGISTERED): 3.00 seconds
+2024-09-16 17:58:10 - Time spent on Python App Tracker Name and 4 more pages - Personal - Microsoft​ Edge: 2.01 seconds
+2024-09-17 20:48:47 - Time spent on App Usage Tracker: 4.01 seconds
+2024-09-17 20:48:48 - Time spent on Search: 1.01 seconds
+2024-09-17 20:48:49 - Time spent on : 1.01 seconds
+2024-09-17 20:48:51 - Time spent on Untitled - Paint: 2.01 seconds
+2024-09-17 20:48:52 - Time spent on : 1.01 seconds
+2024-09-17 20:48:54 - Time spent on Home: 2.01 seconds
+2024-09-17 20:49:03 - Time spent on App Usage Tracker: 9.01 seconds
+2024-09-17 20:49:07 - Time spent on : 4.01 seconds
