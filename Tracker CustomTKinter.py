@@ -47,42 +47,24 @@ class AppUsageTracker(customtkinter.CTk):
         self.current_app_label = customtkinter.CTkLabel(self, text="Current App: None")
         self.current_app_label.grid(row=1, column=0, columnspan=2, pady=10)
 
-        self.current_app_label = customtkinter.CTkLabel(self, text="Current App: None", 
-                                                        font=("Helvetica", 16, "bold"), 
-                                                        text_color="white")
+        self.current_app_label = customtkinter.CTkLabel(self, text="Current App: None", font=("Helvetica", 16, "bold"), text_color="white")
         self.current_app_label.grid(row=1, column=0, columnspan=2, pady=10)
 
         self.style = ttk.Style()
         self.style.theme_use("default")
 
-        # Match Treeview colors to the window background (mimicking transparency)
-        self.style.configure("Treeview",
-                             background="#282c34",  # Match window color
-                             foreground="white",    # Text color
-                             fieldbackground="#282c34",  # Match window color
-                             font=("Helvetica", 12),  # Font for treeview content
-                             borderwidth=0,  # No borders
-                             rowheight=30)   # Adjust row height for spacing
-
+        self.style.configure("Treeview", background="#282c34", foreground="white", fieldbackground="#282c34", font=("Helvetica", 12), borderwidth=0, rowheight=30)
         self.style.map('Treeview', background=[('selected', '#3B4252')])
 
-        # Configure the heading style
-        self.style.configure("Treeview.Heading",
-                             background="#4C566A",
-                             foreground="white",
-                             font=("Helvetica", 12, "bold"))
+        self.style.configure("Treeview.Heading", background="#4C566A", foreground="white", font=("Helvetica", 12, "bold"))
 
-        # Create the treeview widget
         self.tree = ttk.Treeview(self, columns=('App', 'Time'), show='headings')
         self.tree.heading('App', text='Application')
         self.tree.heading('Time', text='Time Spent (seconds)')
 
-        # Insert the treeview widget
         self.tree.grid(row=2, column=0, columnspan=2, pady=10, sticky="nsew")
 
-        self.usage_time_label = customtkinter.CTkLabel(self, text="Total Usage Today: 0 seconds", 
-                                                       font=("Helvetica", 14), 
-                                                       text_color="white")
+        self.usage_time_label = customtkinter.CTkLabel(self, text="Total Usage Today: 0 seconds", font=("Helvetica", 14), text_color="white")
         self.usage_time_label.grid(row=3, column=0, columnspan=2, pady=10)
 
         self.clock_label = customtkinter.CTkLabel(self, text="", font=("Helvetica", 12), text_color="white")
